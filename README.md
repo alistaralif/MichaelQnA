@@ -16,7 +16,9 @@ User queries can be in the form of a **text** input or a **voice message** on te
 the user query into the DistilBERT model.
 
 Example of a context file:
+
 ![Screenshot](context.png)
+
 
 This txt file contains the context which allows the AI model to draw information from. This file can be edited to suit each business' needs.
 
