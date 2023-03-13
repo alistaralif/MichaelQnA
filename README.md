@@ -17,7 +17,7 @@ the user query into the DistilBERT model.
 
 Example of a context file:
 ![Screenshot](context.png)
-This txt file contains the context which allows the AI model to draw information from. This file can be edited to suit the business' needs
+This txt file contains the context which allows the AI model to draw information from. This file can be edited to suit the business' needs.
 
 
 ### Relevant Info
