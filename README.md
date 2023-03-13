@@ -27,3 +27,6 @@ pyTelegramBotAPI: https://pytba.readthedocs.io/en/latest/index.html
 SpeechRecognition: https://github.com/Uberi/speech_recognition#readme
 
 DistilBERT base cased distilled SQuAD: https://huggingface.co/distilbert-base-cased-distilled-squad
+
+
+#### MichaelQnA was created in 24 hours as part of the Aifinity x AWS 2023 hackathon hosted by NTU.
